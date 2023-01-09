@@ -1,8 +1,8 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { Button, ButtonProps } from "./Button";
+import { Button, ButtonProps } from "../components/Button";
 
 export default {
-    title: "Components/Button",
+    title: "components/Button",
     component: Button,
     args: {
         children: 'create something'
