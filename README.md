@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-figma">:art: Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-figma">🎨 Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-execução">👨‍💻 Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <img src="https://img.shields.io/badge/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-# :art:	 Figma
+## 🎨 Figma
 
 <p align="center">
     <a href="https://www.figma.com/file/WBx7iifytwe96G6GNwsHc5/Design-System?node-id=0%3A1&t=uEcVR6g6csEWZxzp-1">
